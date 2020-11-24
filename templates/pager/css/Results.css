@@ -1,0 +1,101 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/ScreenShot2020-09-26at5.11.58PM.png"); background-position: 50% 100%}
+.u-section-1 .u-sheet-1 {min-height: 100vh}
+.u-section-1 .u-text-1 {margin: 101px auto 0}
+.u-section-1 .u-shape-1 {width: 340px; height: 430px; background-image: none; margin: 24px 24px 0 auto}
+.u-section-1 .u-shape-2 {width: 340px; height: 430px; background-image: none; margin: -430px auto 0 24px}
+.u-section-1 .u-shape-3 {width: 364px; height: 430px; background-image: none; margin: -430px auto 0}
+.u-section-1 .u-text-2 {margin: -33px 792px 0 212px}
+.u-section-1 .u-text-3 {margin: -25px 403px 0 auto}
+.u-section-1 .u-text-4 {margin: -17px 47px 0 auto}
+.u-section-1 .u-text-5 {font-size: 1.875rem; margin: 24px auto 0 125px}
+.u-section-1 .u-text-6 {font-size: 1.875rem; width: 109px; margin: -48px auto 0}
+.u-section-1 .u-text-7 {font-size: 1.875rem; margin: -48px 139px 60px 892px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-2 {margin-right: 692px; margin-left: 112px}
+.u-section-1 .u-text-7 {margin-right: 39px; margin-left: 792px} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-2 {margin-right: 582px; margin-left: 2px}
+.u-section-1 .u-text-7 {margin-right: 0; margin-left: 611px} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-2 {margin-right: 404px; margin-left: 0}
+.u-section-1 .u-text-7 {margin-left: 431px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 287px}
+.u-section-1 .u-shape-1 {margin-right: 0}
+.u-section-1 .u-shape-2 {margin-left: 0}
+.u-section-1 .u-shape-3 {width: 340px}
+.u-section-1 .u-text-2 {margin-right: 204px}
+.u-section-1 .u-text-3 {margin-right: 254px}
+.u-section-1 .u-text-7 {margin-left: 231px} }.u-section-2 .u-sheet-1 {min-height: 1062px}
+.u-section-2 .u-text-1 {font-weight: 700; margin: 50px auto 0}
+.u-section-2 .u-text-2 {margin: 7px auto 0}
+.u-section-2 .u-layout-wrap-1 {margin: 49px auto 60px 0}
+.u-section-2 .u-image-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/travel-anaga-mountains_1182-1077.jpg"); background-position: 50% 50%; min-height: 278px}
+.u-section-2 .u-container-layout-1 {padding: 30px}
+.u-section-2 .u-text-3 {margin-top: 0; margin-bottom: 0}
+.u-section-2 .u-text-4 {margin-left: 0; margin-bottom: 0; margin-top: 20px}
+.u-section-2 .u-icon-1 {height: 52px; width: 52px; margin: 30px auto 0 0}
+.u-section-2 .u-image-2 {background-image: url("images/travel-trekking-summer-landscape-mountains-green-grass-trees-blue-sky_146671-18447.jpg"); background-position: 50% 50%; min-height: 278px}
+.u-section-2 .u-container-layout-2 {padding: 30px}
+.u-section-2 .u-icon-2 {height: 52px; width: 52px; margin: 161px auto 0 0}
+.u-section-2 .u-image-3 {background-image: url("images/52e0d2434c5ab108f5d08460962934761237d6ed5a4c704c72267bd5904ac25e_1280.jpg"); background-position: 50% 50%; min-height: 278px}
+.u-section-2 .u-container-layout-3 {padding: 30px}
+.u-section-2 .u-icon-3 {height: 52px; width: 52px; margin: 156px auto 0 0}
+.u-section-2 .u-image-4 {background-image: url("images/g.jpg"); background-position: 50% 50%; min-height: 278px}
+.u-section-2 .u-container-layout-4 {padding: 30px}
+.u-section-2 .u-icon-4 {height: 52px; width: 52px; margin: 156px auto 0 0}
+.u-section-2 .u-image-5 {min-height: 556px; background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/l.jpg"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-5 {padding: 30px}
+.u-section-2 .u-text-5 {margin: 139px auto 0 0}
+.u-section-2 .u-text-6 {margin: 20px auto 0 0}
+.u-section-2 .u-icon-5 {height: 52px; width: 52px; margin: 30px auto 0 0}
+.u-section-2 .u-image-6 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/erw.jpg"); background-position: 50% 50%; min-height: 278px}
+.u-section-2 .u-container-layout-6 {padding: 30px 35px 30px 30px}
+.u-section-2 .u-icon-6 {height: 52px; width: 52px; margin: 136px 0 0 auto}
+.u-section-2 .u-image-7 {background-image: url("images/beautiful-countryside-road-greenery-forests_181624-5399.jpg"); background-position: 50% 50%; min-height: 278px}
+.u-section-2 .u-container-layout-7 {padding: 30px}
+.u-section-2 .u-icon-7 {height: 52px; width: 52px; margin: 0 123px 0 auto} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 915px}
+.u-section-2 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-2 .u-image-1 {min-height: 229px}
+.u-section-2 .u-image-2 {min-height: 229px}
+.u-section-2 .u-image-3 {min-height: 229px}
+.u-section-2 .u-image-4 {min-height: 229px}
+.u-section-2 .u-image-5 {min-height: 458px}
+.u-section-2 .u-image-6 {min-height: 229px}
+.u-section-2 .u-image-7 {min-height: 229px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 1981px}
+.u-section-2 .u-image-1 {min-height: 263px}
+.u-section-2 .u-image-2 {min-height: 263px}
+.u-section-2 .u-image-3 {min-height: 263px}
+.u-section-2 .u-image-4 {min-height: 263px}
+.u-section-2 .u-image-5 {min-height: 1052px}
+.u-section-2 .u-image-6 {min-height: 175px}
+.u-section-2 .u-container-layout-6 {padding-right: 30px}
+.u-section-2 .u-image-7 {min-height: 175px}
+.u-section-2 .u-icon-7 {margin-right: 121px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 3188px}
+.u-section-2 .u-image-1 {min-height: 395px}
+.u-section-2 .u-image-2 {min-height: 395px}
+.u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-image-3 {min-height: 395px}
+.u-section-2 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-image-4 {min-height: 395px}
+.u-section-2 .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-image-5 {min-height: 789px}
+.u-section-2 .u-image-6 {min-height: 197px}
+.u-section-2 .u-container-layout-6 {padding-right: 10px; padding-left: 10px}
+.u-section-2 .u-image-7 {min-height: 394px}
+.u-section-2 .u-container-layout-7 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 2093px}
+.u-section-2 .u-image-1 {min-height: 249px}
+.u-section-2 .u-image-2 {min-height: 249px}
+.u-section-2 .u-image-3 {min-height: 249px}
+.u-section-2 .u-image-4 {min-height: 249px}
+.u-section-2 .u-image-5 {min-height: 497px}
+.u-section-2 .u-image-6 {min-height: 124px}
+.u-section-2 .u-image-7 {min-height: 248px} }
